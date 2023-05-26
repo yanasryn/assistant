@@ -1,4 +1,0 @@
-asisten pribadi
-- Membuat speech recognition
-- Membuat wake word
-- Membuat perintah
